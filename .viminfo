@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1755010122,,"wq!"
+|2,0,1755010433,,"wq!"
 :q
 |2,0,1755010088,,"q"
 
@@ -27,14 +27,27 @@
 # Registers:
 
 # File marks:
-'0  1  4  ~/madhu/mahesh
-|4,48,1,4,1755010122,"~/madhu/mahesh"
+'0  1  10  ~/vin/balaji
+|4,48,1,10,1755010433,"~/vin/balaji"
+'1  1  4  ~/madhu/mahesh
+|4,49,1,4,1755010122,"~/madhu/mahesh"
 
 # Jumplist (newest first):
+-'  1  10  ~/vin/balaji
+|4,39,1,10,1755010433,"~/vin/balaji"
+-'  1  4  ~/madhu/mahesh
+|4,39,1,4,1755010122,"~/madhu/mahesh"
 -'  1  4  ~/madhu/mahesh
 |4,39,1,4,1755010122,"~/madhu/mahesh"
 
 # History of marks within files (newest to oldest):
+
+> ~/vin/balaji
+	*	1755010421	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
 
 > ~/madhu/mahesh
 	*	1755010112	0
